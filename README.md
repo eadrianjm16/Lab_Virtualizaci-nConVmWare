@@ -26,8 +26,10 @@ Este laboratorio reproduce un entorno real de un **datacenter virtual**.
 
 Host Físico (VMware Workstation Pro)
 │
+
 ├── ESXi #1 (Management + VMkernel)
 │
+
 ├── vCenter Server Appliance (VCSA)
 │   ├── Gestión centralizada
 │   ├── Inventario de hosts
