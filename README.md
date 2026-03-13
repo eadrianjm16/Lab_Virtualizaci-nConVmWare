@@ -1,7 +1,7 @@
 # 🧩 Lab_VirtualizacionConVMware
 Laboratorio completo y documentado sobre **virtualización profesional usando VMware Workstation Pro, ESXi, vCenter y redes virtuales**, orientado al aprendizaje avanzado, pruebas de infraestructura y simulación de entornos empresariales.
 
-Este proyecto demuestra mi capacidad para **diseñar, desplegar, administrar y automatizar un entorno de virtualización real**, utilizando tanto herramientas gráficas como consola (SSH/ESXi Shell), configuraciones de red, almacenamiento, snapshots, creación manual de VMs mediante archivos `.vmx`, y conceptos clave de arquitectura.
+Este proyecto demuestra mi capacidad para **diseñar, desplegar, administrar, automatizar y centralizar la gestion (Conmutador Distribuido) de un entorno de virtualización real**, utilizando tanto herramientas gráficas como consola (SSH/ESXi Shell), configuraciones de red, almacenamiento, snapshots, creación manual de VMs mediante archivos `.vmx`, y conceptos clave de arquitectura.
 
 ---
 
@@ -31,48 +31,48 @@ Este laboratorio reproduce un entorno real de un **datacenter virtual**.
 Las imágenes del repositorio se encuentran en:  
 **`assets/images/`**
 
-Aquí puedes ver algunas de las capturas principales utilizadas en el proyecto:
+Aquí puedes ver algunas de las algunas capturas principales utilizadas en el proyecto:
 
 ### 🔧 Configuración del Host ESXi
 ![](assets/images/Esxi1_ConfigVM.PNG)
 
-assets/images/Esxi1_HostClientWeb.png
+![](assets/images/Esxi1_HostClientWeb.png)
 
-assets/images/Esxi1_HostClientRedes.png
+![](assets/images/Esxi1_HostClientRedes.png)
 
 ---
 
 ### 🌐 Configuración de Redes VMkernel
-assets/images/Esxi1_VMKernel.png
+![](assets/images/Esxi1_VMKernel.png)
 
-assets/images/Esxi2_VMKernel.png
+![](assets/images/Esxi2_VMKernel.png)
 
-assets/images/Esxi3_VMKernel.png
+![](assets/images/Esxi3_VMKernel.png)
 
 ---
 
 ### 🔌 Configuración del vSwitch y vDS
-assets/images/Esxi3_vSwitch0.PNG
+![](assets/images/Esxi3_vSwitch0.PNG)
 
-assets/images/Esxi3_vDSwitch_1uplink.PNG
+![](assets/images/Esxi3_vDSwitch_1uplink.PNG)
 
 ---
 
 ### 🧠 vCenter Server Appliance
-assets/images/VMvCenter_vSphereClientWeb.PNG
+![](assets/images/VMvCenter_vSphereClientWeb.PNG)
 
-assets/images/VMvCenter_VMKernel.png
+![](assets/images/VMvCenter_VMKernel.png)
 
-assets/images/VMvCenter_DSwitch_distribuido.PNG
+![](assets/images/VMvCenter_DSwitch_distribuido.PNG)
 
 ---
 
 ### 📡 DNS Server – Dependencia esencial para vCenter
-assets/images/WinServerDNS_ConfigIP.png
+![](assets/images/WinServerDNS_ConfigIP.png)
 
-assets/images/WinServerDNS_ConfigVM.png
+![](assets/images/WinServerDNS_ConfigVM.png)
 
-assets/images/WinServerDNS_Zonas.png
+![](assets/images/WinServerDNS_Zonas.png)
 
 ---
 
