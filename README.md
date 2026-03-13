@@ -20,9 +20,6 @@ Diseñar y construir un ecosistema virtual completamente funcional, compuesto po
 
 Este laboratorio reproduce un entorno real de un **datacenter virtual**.
 
----
-
-## 🏗️ Arquitectura del Laboratorio
 
 ## 🏗️ Arquitectura del Laboratorio
 
